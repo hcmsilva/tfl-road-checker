@@ -12,4 +12,5 @@
     <string name="status_severity_descrition_subtitle">Status Severity Description</string>
     <string name="refresh_str">refresh</string>
     <string name="title_activity_simple_road_checker">SimpleRoadCheckerActivity</string>
+    <string name="autofill_hint_road_id">A2</string>
 </resources>
